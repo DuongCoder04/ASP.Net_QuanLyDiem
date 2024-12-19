@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydiem\\quanlydiem\\view\\webformdiemthi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|solutionrelative:quanlydiem\\view\\webformdiemthi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\quanlydiem\\view\\webformdiemthi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|solutionrelative:quanlydiem\\view\\webformdiemthi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\quanlydiem\\view\\webformmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|solutionrelative:quanlydiem\\view\\webformmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\quanlydiem\\view\\webformmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|solutionrelative:quanlydiem\\view\\webformmonhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\quanlydiem\\view\\webformsinhvien.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|solutionrelative:quanlydiem\\view\\webformsinhvien.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\quanlydiem\\view\\webformmonhoc.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|solutionrelative:quanlydiem\\view\\webformmonhoc.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\quanlydiem\\view\\webformsinhvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|solutionrelative:quanlydiem\\view\\webformsinhvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\quanlydiem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2DE43E5-AF20-4A37-AD4F-A6C74AD07D4E}|QuanLyDiem\\QuanLyDiem.csproj|solutionrelative:quanlydiem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebFormDiemThi.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormDiemThi.aspx",
+              "RelativeDocumentMoniker": "QuanLyDiem\\View\\WebFormDiemThi.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormDiemThi.aspx",
+              "RelativeToolTip": "QuanLyDiem\\View\\WebFormDiemThi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T02:54:34.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebFormMonHoc.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormMonHoc.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyDiem\\View\\WebFormMonHoc.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormMonHoc.aspx.cs",
+              "RelativeToolTip": "QuanLyDiem\\View\\WebFormMonHoc.aspx.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:05:09.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebFormMonHoc.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormMonHoc.aspx",
+              "RelativeDocumentMoniker": "QuanLyDiem\\View\\WebFormMonHoc.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormMonHoc.aspx",
+              "RelativeToolTip": "QuanLyDiem\\View\\WebFormMonHoc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T01:00:36.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebFormMonHoc.aspx.designer.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormMonHoc.aspx.designer.cs",
+              "RelativeDocumentMoniker": "QuanLyDiem\\View\\WebFormMonHoc.aspx.designer.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormMonHoc.aspx.designer.cs",
+              "RelativeToolTip": "QuanLyDiem\\View\\WebFormMonHoc.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:47:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebFormSinhVien.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormSinhVien.aspx",
+              "RelativeDocumentMoniker": "QuanLyDiem\\View\\WebFormSinhVien.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormSinhVien.aspx",
+              "RelativeToolTip": "QuanLyDiem\\View\\WebFormSinhVien.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T01:49:11.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebFormDiemThi.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormDiemThi.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyDiem\\View\\WebFormDiemThi.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormDiemThi.aspx.cs",
+              "RelativeToolTip": "QuanLyDiem\\View\\WebFormDiemThi.aspx.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:06:38.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\Web.config",
+              "RelativeDocumentMoniker": "QuanLyDiem\\Web.config",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\Web.config",
+              "RelativeToolTip": "QuanLyDiem\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-17T01:46:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebFormSinhVien.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormSinhVien.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyDiem\\View\\WebFormSinhVien.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDiem\\QuanLyDiem\\View\\WebFormSinhVien.aspx.cs",
+              "RelativeToolTip": "QuanLyDiem\\View\\WebFormSinhVien.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:53:57.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

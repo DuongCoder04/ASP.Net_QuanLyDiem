@@ -1,0 +1,34 @@
+-- Tạo cơ sở dữ liệu
+CREATE DATABASE QuanLyDiem;
+GO
+
+-- Sử dụng cơ sở dữ liệu
+USE QuanLyDiem;
+GO
+
+-- Tạo bảng MonHoc
+CREATE TABLE MonHoc (
+    MaMon INT PRIMARY KEY IDENTITY(1,1),
+    TenMon NVARCHAR(30)
+);
+
+-- Tạo bảng SinhVien
+CREATE TABLE SinhVien (
+    MaSV NVARCHAR(5) PRIMARY KEY,
+    HoTen NVARCHAR(30),
+    NgaySinh NVARCHAR(10),
+    GhiChu NVARCHAR(30)
+);
+
+-- Tạo bảng DiemThi
+CREATE TABLE DiemThi (
+    MaDT INT PRIMARY KEY IDENTITY(1,1),
+    MaMon INT,
+    MaSV NVARCHAR(5),
+    DiemCC FLOAT,
+    DiemGK FLOAT,
+    DiemThi FLOAT,
+    DiemTK FLOAT,
+    FOREIGN KEY (MaMon) REFERENCES MonHoc(MaMon),
+    FOREIGN KEY (MaSV) REFERENCES SinhVien(MaSV)
+);

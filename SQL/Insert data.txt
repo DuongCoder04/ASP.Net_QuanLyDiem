@@ -1,0 +1,40 @@
+USE QuanLyDiem
+GO
+-- Thêm dữ liệu vào bảng MonHoc
+INSERT INTO MonHoc (TenMon) VALUES
+('Toán Cao Cấp'),
+('Lý Thuyết Đồ Thị'),
+('Cơ Sở Dữ Liệu'),
+('Lập Trình C++'),
+('Hệ Điều Hành'),
+('Mạng Máy Tính'),
+('Trí Tuệ Nhân Tạo'),
+('Phân Tích Dữ Liệu'),
+('Kỹ Thuật Số'),
+('An Toàn Thông Tin');
+GO
+-- Thêm dữ liệu vào bảng SinhVien
+INSERT INTO SinhVien (MaSV, HoTen, NgaySinh, GhiChu) VALUES
+('SV001', 'Nguyễn Văn A', '01/01/2000', 'Ghi chú 1'),
+('SV002', 'Trần Thị B', '02/02/2000', 'Ghi chú 2'),
+('SV003', 'Lê Văn C', '03/03/2000', 'Ghi chú 3'),
+('SV004', 'Phạm Thị D', '04/04/2000', 'Ghi chú 4'),
+('SV005', 'Hoàng Văn E', '05/05/2000', 'Ghi chú 5'),
+('SV006', 'Đỗ Thị F', '06/06/2000', 'Ghi chú 6'),
+('SV007', 'Bùi Văn G', '07/07/2000', 'Ghi chú 7'),
+('SV008', 'Ngô Thị H', '08/08/2000', 'Ghi chú 8'),
+('SV009', 'Vũ Văn I', '09/09/2000', 'Ghi chú 9'),
+('SV010', 'Đặng Thị J', '10/10/2000', 'Ghi chú 10');
+GO
+-- Thêm dữ liệu vào bảng DiemThi
+INSERT INTO DiemThi (MaMon, MaSV, DiemCC, DiemGK, DiemThi, DiemTK) VALUES
+(1, 'SV001', 8.0, 7.5, 9.0, 8.5),
+(2, 'SV002', 7.0, 8.0, 8.5, 8.0),
+(3, 'SV003', 9.0, 8.5, 9.5, 9.0),
+(4, 'SV004', 6.5, 7.0, 7.5, 7.0),
+(5, 'SV005', 8.5, 9.0, 9.0, 8.8),
+(6, 'SV006', 7.5, 7.5, 8.0, 7.7),
+(7, 'SV007', 8.0, 8.0, 8.5, 8.2),
+(8, 'SV008', 9.0, 9.0, 9.5, 9.2),
+(9, 'SV009', 6.0, 6.5, 7.0, 6.5),
+(10, 'SV010', 7.0, 7.5, 8.0, 7.5);
